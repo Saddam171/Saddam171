@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/7e/0f/d6/7e0fd6b8af00346ce03b9599de69cb5d.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saddam171&label=Profile%20views&color=0e75b6&style=flat" alt="saddam171" /> </p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/953447676232491049)](https://discord.com/users/953447676232491049) <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddam171&label=Profile%20views&color=0e75b6&style=flat" alt="saddam171" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saddam171" alt="saddam171" /></a> </p>
 
@@ -16,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saddam171?tab=repositories](https://github.com/Saddam171?tab=repositories)
 
-     
+      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
