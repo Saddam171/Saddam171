@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Complexo+do+Alemão;Cartel+de+Medellín)](https://git.io/typing-svg)
+
+
 <h1 align="center">Developer Resilient</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/7e/0f/d6/7e0fd6b8af00346ce03b9599de69cb5d.gif>
