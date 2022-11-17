@@ -10,9 +10,6 @@
 
 
 
-
-<p align="left"> <a href="https://twitter.com/rz.darmulher" target="blank"><img src="https://img.shields.io/twitter/follow/rz.darmulher?logo=twitter&style=for-the-badge" alt="rz.darmulher" /></a> </p>
-
 - 👑 Owner da 212 e UnG
 
 - 🚩 Tropa do Urso🐻
