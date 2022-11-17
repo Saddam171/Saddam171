@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Poze**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saddam171?tab=repositories](https://github.com/Saddam171?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Saddam171?tab=repositories)
 
 
 
