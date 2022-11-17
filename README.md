@@ -10,13 +10,13 @@
 
 
 
-- 👑 Owner da 212 e UnG
+- 👑 Dono da UnG e RZ7
 
 - 🚩 Tropa do Urso🐻
 
-- 🔭 I’m currently working on **Poze**
+- 🔭 Atualmente estou trabalhando no projeto **MC POZE**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Saddam171?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Repositories](https://github.com/Saddam171?tab=repositories)
 
 
 
