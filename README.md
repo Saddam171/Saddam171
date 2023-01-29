@@ -9,10 +9,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1004522781251215512)](https://discord.com/users/953447676232491049)<p align="left"> <img src="https://komarev.com/ghpvc/?username=saddam171&label=Profile%20views&color=0e75b6&style=flat" alt="saddam171" /> </p>
 
 
-
+- 🚩 𝐓𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐢𝐬 𝐲𝐨𝐮𝐫𝐬
+ 
 - 👑 Dono da UnG e RZ7
-
-- 🚩 Tropa do Urso🐻
 
 - 🔭 Atualmente estou trabalhando no projeto **MC POZE**
 
