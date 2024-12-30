@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Complexo+do+Alemão;Cartel+de+Medellín)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+in+hacking;;Cdm+tools;Cartel+de+Medellín)](https://git.io/typing-svg)
 
 
 <h1 align="center">Developer Resilient</h1>
